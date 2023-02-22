@@ -1,0 +1,24 @@
+{
+  "name": "appwrite-storage",
+  "version": "1.0.0",
+  "description": "Testing storage API of AppWrite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajahuanex/appwrite-storage.git"
+  },
+  "keywords": [
+    "appwrite",
+    "storage",
+    "api"
+  ],
+  "author": "Juan Carlos Ajahuana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajahuanex/appwrite-storage/issues"
+  },
+  "homepage": "https://github.com/ajahuanex/appwrite-storage#readme"
+}
