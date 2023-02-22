@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Testing storage API of AppWrite",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/ajahuanex/appwrite-storage/issues"
   },
-  "homepage": "https://github.com/ajahuanex/appwrite-storage#readme"
+  "homepage": "https://github.com/ajahuanex/appwrite-storage#readme",
+  "dependencies": {
+    "appwrite": "^10.2.0"
+  }
 }
