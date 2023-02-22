@@ -1,2 +1,2 @@
 # appwrite-storage
-Testing storage api whit AppWrite
+Testing storage api with AppWrite
